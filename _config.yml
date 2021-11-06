@@ -80,7 +80,7 @@ theme: Sakura
 deploy:
   type: git
   repo: git@github.com:lychee27z/lychee27z.github.io.git
-  branch: main
+  branch: master
 
 # backup
 backup:
