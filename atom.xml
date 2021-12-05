@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>http://zhangzijian27.com</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://zhangzijian27.com/"/>
+  <updated>2021-12-05T08:54:26.987Z</updated>
+  <id>http://zhangzijian27.com/</id>
+  
+  <author>
+    <name>lycheez</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Git使用</title>
+    <link href="http://zhangzijian27.com/2021/12/05/Git%E4%BD%BF%E7%94%A8/"/>
+    <id>http://zhangzijian27.com/2021/12/05/Git使用/</id>
+    <published>2021-12-05T08:10:11.000Z</published>
+    <updated>2021-12-05T08:54:26.987Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;学习git之前，我们需要先明白一个概念&lt;/p&gt;
+&lt;p&gt;版本控制！&lt;/p&gt;
+&lt;p&gt;什么是版本控制&lt;br&gt;版本控制（Revision
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="http://zhangzijian27.com/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+</feed>
