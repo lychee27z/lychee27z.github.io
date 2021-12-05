@@ -2,16 +2,17 @@
 prefixName: 
 siteName: lycheez
 # favicon and site master avatar
-favicon: /img/head.jpg
+favicon: /favicon/sitefavicon.ico
 avatar: /img/head.jpg
-url: https://sakura.hojun.cn
-description: Live your life with passion! With some drive!
-cdn: https://cdn.jsdelivr.net/gh/lychee27z/cdn@1.0.1
+url: https://zhangzijian27.com
+description: Be humble!
+cdn: https://cdn.jsdelivr.net/gh/lychee27z/cdn@1.0.3
 pjax: 1
 # 1开启
 mathjax: 0
 
-notice: hexo-Sakura主题已经开源，目前正在开发中...
+notice: 前端学习博客正在逐步更新中.........
+#lazyloadImg: https://cdn.jsdelivr.net/gh/lychee27z/cdn@1.0.3/img/head.jpg
 lazyloadImg: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg
 
 menus:
@@ -47,28 +48,24 @@ homePageSortType: -1
 homeArticleShown: 10
 # 背景图片 更好的修改
 bg:
-  - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(1).jpg.webp
-  - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(2).jpg.webp
-  - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(3).jpg.webp
-  - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(4).jpg.webp
-  - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(5).jpg.webp
-  - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(6).jpg.webp
-  - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(7).jpg.webp
-  - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(8).jpg.webp
+  - https://cdn.jsdelivr.net/gh/lychee27z/cdn@1.0.3/img/bgimage/1.webp
+  - https://cdn.jsdelivr.net/gh/lychee27z/cdn@1.0.3/img/bgimage/2.webp
+  - https://cdn.jsdelivr.net/gh/lychee27z/cdn@1.0.3/img/bgimage/3.webp
+  #- https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(1).jpg.webp
 
 # 背景图片样式 空 原图效果 filter-dim 阴影 filter-grid 横条 filter-dot 点点
 bgclass: filter-dot
 
 # startdash url, title, desc img
 startdash: 
-  - {url: /theme-sakura/, title: Sakura, desc: 本站 hexo 主题, img: /img/startdash/sakura.md.png}
-  - {url: http://space.bilibili.com/271849279, title: Bilibili, desc: 博主的b站视频, img: /img/startdash/bilibili.jpg}
-  - {url: /, title: hojun的万事屋, desc: 技术服务, img: /img/startdash/wangshiwu.jpg}
+  - {url: /theme-sakura/, title: Sakura, desc: 本站 hexo 主题, img: /img/startdash/head.jpg}
+  - {url: https://space.bilibili.com/435801052, title: Bilibili, desc: 博主的b站视频, img: /img/startdash/head.jpg}
+  - {url: /, title: lcyheez的万事屋, desc: 技术服务, img: /img/startdash/head.jpg}
 
 
 
 # your site build time or founded date
-siteBuildingTime: 07/17/2018
+siteBuildingTime: 10/20/2021
 
 #social  url, img PC端配置
 social:
@@ -114,4 +111,8 @@ aplayer:
 valine: true
 v_appId: GyC3NzMvd0hT9Yyd2hYIC0MN-gzGzoHsz
 v_appKey: mgOpfzbkHYqU92CV4IDlAUHQ
+
+# 背景音乐
+bg_music: https://m10.music.126.net/20200602143725/fa04d41ad48c7ee8acd87321007b190c/ymusic/a7c0/b207/4ec9/da0ca2f21a36146d14548b8c99f819d0.mp3
+
 
